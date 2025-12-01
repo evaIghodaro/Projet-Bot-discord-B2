@@ -1,0 +1,59 @@
+{
+    "_comment": "Historique, points et recettes débloquées des utilisateurs pour SweetBot",
+    "users": {
+        "683333022451499079": {
+            "points": 0,
+            "recipes_unlocked": []
+        },
+        "1387465094669144209": {
+            "points": 25,
+            "recipes_unlocked": []
+        }
+    },
+    "history": {},
+    "recipes": {
+        "Mousse au chocolat 🍫": "Chocolat + crème fouettée, laisser 2h",
+        "Tiramisu light ☁️": "Mascarpone allégé, biscuits légers, café",
+        "Yaourt glacé 🍧": "Yaourt + sucre, congeler 3h",
+        "Fondant au chocolat 🍫🔥": "Chocolat + beurre + sucre, cuisson 10min",
+        "Brownie 🍫": "Chocolat + noix, cuisson moelleuse",
+        "Tarte au citron 🍋🥧": "Pâte sablée + crème citron + meringue",
+        "Fraisier 🍓": "Génoise + crème mousseline + fraises",
+        "Salade de fruits 🍉🍓": "Fruits frais mélangés",
+        "Clafoutis aux cerises 🍒": "Cerises + pâte à clafoutis, cuisson 30min",
+        "Sorbet citron 🍋": "Citron + eau + sucre, congeler",
+        "Smoothie tropical 🍍🥭": "Ananas + mangue + lait ou eau",
+        "Granité framboise 🍇": "Framboises + sucre + congélateur"
+    },
+    "vip_recipes": [
+        {
+            "name": "Tiramisu light ☁️",
+            "cost": 2
+        },
+        {
+            "name": "Fondant intense 🍫🔥",
+            "cost": 3
+        },
+        {
+            "name": "Sorbet exotique 🥭",
+            "cost": 2
+        }
+    ],
+    "tree_positions": {
+        "683333022451499079": []
+    },
+    "points": {
+        "683333022451499079": 5
+    },
+    "unlocked": {
+        "683333022451499079": [
+            "Tiramisu light ☁️"
+        ]
+    },
+    "683333022451499079": {
+        "points": 2,
+        "unlocked": [
+            "Tiramisu light ☁️"
+        ]
+    }
+}
